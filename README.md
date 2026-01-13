@@ -5,7 +5,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Building+VayuSync+%26+Map+My+Plot;Exploring+AI+Content+Generation;System+Design+%26+Automation+Enthusiast)
 
 ## About Me
-- 🔭 Currently working on: VayuSync, Map My Plot, Autocongen and Map My News.
+- 🔭 Currently working on: VayuSync, Map My Plot, automated content generation
 - 🤝 Looking to collaborate on: Bold experiments, innovative products, brainstorming
 - 🌱 Learning: Advanced system design, automation workflows
 - 💬 Ask me about: Coding, cooking, basketball, travel, music
